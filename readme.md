@@ -2,7 +2,7 @@
 ## Enviroments
 
 
-## The command lines of ROLE 
+## The command lines of ROLE
 
 ```
 python run.py --model GraphEmb_Di_Node2lv_Rot --dataset directed_cora --directed --bias learn
@@ -12,4 +12,5 @@ python run.py --model GraphEmb_Di_Node2lv_Rot --dataset directed_epinions --dire
 
 
 
-
+This source code and dataset are keeping updating. 
+If you have any question, please contact victor_fengss@foxmail.com
