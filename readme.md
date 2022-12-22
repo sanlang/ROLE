@@ -1,6 +1,7 @@
 
-## Enviroments
+## Conda Enviroments
 
+`conda env create -f ROLE.yml`
 
 ## The command lines of ROLE
 
