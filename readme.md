@@ -1,5 +1,5 @@
 
-## Conda Enviroments
+## Create conda enviroments
 
 `conda env create -f ROLE.yml`
 
